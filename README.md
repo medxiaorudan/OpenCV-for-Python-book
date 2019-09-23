@@ -1,7 +1,6 @@
 # OpenCV-for-Python-book
 
 Materials and IPython notebooks for "OpenCV for Python"
-Published by 李立宗
 
 
 ## IPython Notebooks:
